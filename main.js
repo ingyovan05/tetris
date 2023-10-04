@@ -28,7 +28,7 @@ const piece = {
   ]
 }
 
-// 9. random piece  prueba
+// 9. random piece  prueba de nueva rama
 const PIECES = [
   [
     [1, 1],

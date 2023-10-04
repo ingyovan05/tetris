@@ -19,6 +19,7 @@ function CreateBoard (width, height) {
   return Array(height).fill().map(() => Array(width).fill(0))
 }
 
+
 // 4. Pieza player
 const piece = {
   position: { x: 5, y: 5 },
